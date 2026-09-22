@@ -13,4 +13,4 @@ else:
         c = a + b
         a = b
         b = c
-        count += 1
+        count +=  1
